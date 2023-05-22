@@ -1,3 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=002c5f&height=300&section=header&text=capsule%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=002c5f&height=120&animation=fadeIn&section=header&text=JitHub%20render&fontSize=90)
 
 ![reversal](https://capsule-render.vercel.app/api?type=rect&text=RECT&fontAlign=30&fontSize=30&desc=Use%20theme&descAlign=60&descAlignY=50&theme=radical)
