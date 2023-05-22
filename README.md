@@ -4,8 +4,12 @@
 
 <!-- Social icons section -->
 <p align="center">
-  <a href="https://www.instagram.com/no.brain_study/?igshid=YmMyMTA2M2Y%3D"><img width="32px" alt="Instagram" title="Instagram" src="https://img.icons8.com/fluency/96/000000/instagram-new.png"/></a>
-  <a href="https://discord.gg/XMJgjQa7qZ" alt="Discord" title="Study with me"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
+  <a href="https://www.instagram.com/no.brain_study/?igshid=YmMyMTA2M2Y%3D" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="example"/>
+  </a>
+  <a href="https://discord.gg/XMJgjQa7qZ" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="example"/>
+  </a>
 </p>
 
 
