@@ -5,7 +5,7 @@
 <!-- Social icons section -->
 <p align="center">
   <a href="https://www.instagram.com/no.brain_study/?igshid=YmMyMTA2M2Y%3D" target="_blank">
-    <img src="https://img.shields.io/badge/no.brain_stydy-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="example"/>
+    <img src="https://img.shields.io/badge/@no.brain_study-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="example"/>
   </a>
   <a href="https://discord.gg/XMJgjQa7qZ" target="_blank">
     <img src="https://img.shields.io/badge/뇌냅스-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="example"/>
