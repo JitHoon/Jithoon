@@ -1,4 +1,4 @@
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdkssud8150%2F&count_bg=%232AB4E5D6&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=views&edge_flat=false)
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%Jithoon%2F&count_bg=%232AB4E5D6&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=views&edge_flat=false)
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=002c5f&height=90&animation=fadeIn&section=header)
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Carter+One&size=35&pause=1000&color=0050AC&background=FF080800&center=true&vCenter=true&width=1000&lines=Jit+Hoon+%2B+Git+Hub+%3D+Jit+Hub+😎&margin=none)
