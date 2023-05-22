@@ -16,8 +16,5 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jithoon&theme=transparent)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jithoon&theme=transparent)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jithoon&theme=transparent)
-![](https://raw.githubusercontent.com/vn7n24fzkq/vn7n24fzkq/master/profile-summary-card-output/solarized/2-most-commit-language.svg)
-![](https://raw.githubusercontent.com/vn7n24fzkq/vn7n24fzkq/master/profile-summary-card-output/solarized/3-stats.svg)
-![](https://raw.githubusercontent.com/vn7n24fzkq/vn7n24fzkq/master/profile-summary-card-output/solarized/4-productive-time.svg)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JitHoon&theme=github_dark_dimmed&show_icons=true)
