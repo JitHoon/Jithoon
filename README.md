@@ -13,6 +13,6 @@
 </p>
 
 <p align="center">
-  <img src=http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jithoon&theme=gruvbox />
-  <img src=http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jithoon&theme=gruvbox />
+  <img src=http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jithoon&theme=tokyonight />
+  <img src=http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jithoon&theme=tokyonight />
 <p align="center">
