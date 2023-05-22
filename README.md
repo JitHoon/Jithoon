@@ -14,7 +14,7 @@
 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jithoon&theme=transparent)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jithoon&theme=transparent&exclude=JupyterNotebook)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jithoon&theme=transparent&exclude=jupyternotebook)
 
 ![](https://raw.githubusercontent.com/vn7n24fzkq/vn7n24fzkq/master/profile-summary-card-output/solarized/2-most-commit-language.svg)
 ![](https://raw.githubusercontent.com/vn7n24fzkq/vn7n24fzkq/master/profile-summary-card-output/solarized/3-stats.svg)
