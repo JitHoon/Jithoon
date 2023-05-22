@@ -5,9 +5,7 @@
 <!-- Social icons section -->
 <p align="center">
   <a href="https://www.instagram.com/no.brain_study/?igshid=YmMyMTA2M2Y%3D"><img width="32px" alt="Instagram" title="Instagram" src="https://i.imgur.com/a/yycZUmo.png"/></a>
-  &#FF080800;&#FF080800;&#FF080800;&#FF080800;&#FF080800;
   <a href="https://discord.gg/XMJgjQa7qZ" alt="Discord" title="Study with me"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
-  &#FF080800;&#FF080800;&#FF080800;&#FF080800;&#FF080800;
 </p>
 
 
