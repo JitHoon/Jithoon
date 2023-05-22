@@ -12,6 +12,7 @@
   </a>
 </p>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jithoon&theme=transparent)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jithoon&theme=transparent)
-![JitHoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=JitHoon&theme=github_dark_dimmed&show_icons=true)
+<p align="center">
+  <img src=http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jithoon&theme=transparent />
+  <img src=http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jithoon&theme=transparent />
+<p align="center">
