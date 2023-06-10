@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/badge/@no.brain_study-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="example"/>
   </a>
   <a href="https://discord.gg/XMJgjQa7qZ" target="_blank">
-    <img src="https://img.shields.io/badge/뇌냅스-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="example"/>
+    <img src="https://img.shields.io/badge/뇌 빼고 냅다 스터디-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="example"/>
   </a>
 </p>
   
