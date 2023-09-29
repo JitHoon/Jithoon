@@ -1,3 +1,4 @@
+# *Choi Jee Hoon*
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fdiscord.gg%2FXMJgjQa7qZ&count_bg=%23002C5F&title_bg=%23000000&icon=discord.svg&icon_color=%23FFFFFF&title=Hits&edge_flat=true)](https://discord.gg/XMJgjQa7qZ)
 
 `2023.07 ~ 2024.01` 야놀자 FE 테크 스쿨  
